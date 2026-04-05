@@ -2,4 +2,5 @@ Git ABC
 Helo mình tên là Kiên
 Xin chào
 waiting for luv
-day la kiendt commit len
+-----
+Kien đã push này lên nhánh kiendt
